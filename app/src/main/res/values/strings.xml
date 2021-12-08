@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Food_dicoding</string>
+    <string name="food_name">Nama Makanan</string>
+    <string name="detail">Detail</string>
+    <string name="share">Share</string>
+    <string name="preview">Preview</string>
+    <string name="moh_fauzi">MOH.FAUZI</string>
+    <string name="email">195410033@students.akakom.ac.id</string>
+</resources>
